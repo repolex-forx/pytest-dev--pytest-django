@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-django",
+  "versions": [
+    {
+      "commit": "ad5867df0bbb8ba4743694fbf5489a6b58c00a07",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:25:42.010556+00:00"
+    }
+  ]
+}
